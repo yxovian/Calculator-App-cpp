@@ -1,0 +1,11 @@
+.vs/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.recipe
+*.suo
+*.idb
+*.tlog
