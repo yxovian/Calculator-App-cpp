@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculator-App-cpp
 
 A simple console-based calculator built in C++.
@@ -15,3 +16,6 @@ A simple console-based calculator built in C++.
 ## Future Improvements
 - Add input validation for non-numeric input
 - Fix the invalid-operation flow so it doesn't ask for numbers before showing the error
+=======
+# Calculator-App-C-
+>>>>>>> d107cca46a4e51eb9a0194e6228ae3f62c439aa4
