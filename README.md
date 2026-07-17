@@ -1,21 +1,99 @@
-<<<<<<< HEAD
-# Calculator-App-cpp
+# 🧮 Calculator App (C++)
 
-A simple console-based calculator built in C++.
+A simple console-based Calculator application developed in **C++**.  
+This project was built to practice fundamental programming concepts such as functions, loops, conditional statements, user input handling, and mathematical operations.
 
-## Features
-- Addition, Subtraction, Multiplication, Division
-- Square Root, Cube Root
-- Handles division by zero and negative square roots
+---
 
-## How to Run
-1. Open the project in Visual Studio (`Calculator App C++.slnx`)
-2. Build and run `Calculator App C++.cpp`
-3. Follow the on-screen menu to select an operation
+## ✨ Features
 
-## Future Improvements
-- Add input validation for non-numeric input
-- Fix the invalid-operation flow so it doesn't ask for numbers before showing the error
-=======
-# Calculator-App-C-
->>>>>>> d107cca46a4e51eb9a0194e6228ae3f62c439aa4
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- √ Square Root
+- ∛ Cube Root
+- Error handling for:
+  - Division by zero
+  - Square root of negative numbers
+- Repeat calculations without restarting the program
+
+---
+
+## 🛠 Technologies Used
+
+- C++
+- Standard Template Library (STL)
+- `<iostream>`
+- `<cmath>`
+
+---
+
+## 📂 Project Structure
+
+```
+Calculator-App-cpp/
+│
+├── main.cpp
+└── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yxovian/Calculator-App-cpp.git
+```
+
+2. Open the project in Visual Studio (or any C++ IDE).
+
+3. Build and Run the project.
+
+---
+
+## 📋 Example
+
+```
+----- Calculator App -----
+
+Select Operation:
++ Addition
+- Subtraction
+* Multiplication
+/ Division
+s Square Root
+c Cube Root
+
+Choice: +
+
+Enter Number 1: 10
+Enter Number 2: 5
+
+Result: 15
+```
+
+---
+
+## 📚 Concepts Practiced
+
+- Functions
+- Switch Statement
+- Loops (`while`)
+- Arrays
+- User Input
+- Mathematical Functions
+- Error Handling
+- Modular Programming
+
+---
+
+## 👨‍💻 Author
+
+**yxovian**
+
+- GitHub: https://github.com/yxovian
+
+---
